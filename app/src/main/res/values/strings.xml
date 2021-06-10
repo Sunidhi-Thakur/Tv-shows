@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Movie MVVM</string>
+    <string name="tv_shows">TV Shows</string>
+    <string name="episodes">Episodes</string>
+    <string name="upcoming">Up Coming</string>
+</resources>
